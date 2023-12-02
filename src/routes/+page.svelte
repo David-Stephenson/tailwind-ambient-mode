@@ -25,7 +25,7 @@
 
 <div class="flex flex-col items-center justify-center h-screen relative overflow-hidden">
 	<!-- Background glow canvas -->
-	<canvas bind:this={canvas} class="aspect-video h-[34rem] absolute blur-[100px]" aria-hidden="true"
+	<canvas bind:this={canvas} class="aspect-video h-[34rem] absolute blur-[200px]" aria-hidden="true"
 	></canvas>
 
 	<!-- 

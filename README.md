@@ -1,6 +1,8 @@
-# Ambient Mode Example
+# Tailwind Ambient Mode Example
 
 This project showcases a minimalist video background glow, inspired by YouTube's ambient mode. It's designed using Tailwind CSS and built on Sveltekit, although Sveltekit is not a prerequisite.
+
+This isn't plugin, I'm just showing how it can be done.
 
 ![Demo Image](images/example.png)
 
