@@ -2,6 +2,8 @@
 
 This project showcases a minimalist video background glow, inspired by YouTube's ambient mode. It's designed using Tailwind CSS and built on Sveltekit, although Sveltekit is not a prerequisite.
 
+Using JavaScript, the video is cloned onto a canvas, then using tailwind the canvas is blurred.
+
 This isn't plugin, I'm just showing how it can be done.
 
 ![Demo Image](images/example.png)
