@@ -41,7 +41,7 @@
 	<video
 		bind:this={video}
 		class="aspect-video h-[30rem] relative border-4 border-white rounded-md"
-		src="https://data.davidstephenson.net/Hero/vein-1280x720/video.m4v"
+		src="https://data.davidstephenson.net/home/hero/vein-1280x720/video.m4v"
 		controls
 		muted
 		loop
